@@ -13,17 +13,15 @@ body{
 h1{
     font-size: 80px;
     margin:0;
-color: white;
-text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
-font-family: sans-serif;
+    color: white;
+    text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    font-family: sans-serif;
 }
 textarea{
-    margin:30px 0;
-    width:400px;
+    width:300px;
     height: 200px;
     box-shadow: 12px 12px 15px rgba(0,0,0,0.5) ;
     font-size: 18px;
-    padding:7px;
 }
 button{
     width:200px;
@@ -38,13 +36,6 @@ button{
         font-size: 30px;
     }
     textarea{
-    
-            margin:10px 0;
-            width:250px;
-            height: 200px;
-            box-shadow: 12px 12px 15px rgba(0,0,0,0.5) ;
-            font-size: 18px;
-            padding:2px;
-        
+            width:250px;            
     }
 }
